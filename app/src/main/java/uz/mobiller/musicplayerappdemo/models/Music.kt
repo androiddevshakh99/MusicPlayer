@@ -2,7 +2,6 @@ package uz.mobiller.musicplayerappdemo.models
 
 import java.util.concurrent.TimeUnit
 
-//Hi bro how are you
 data class Music(
     val id: String,
     val title: String,
