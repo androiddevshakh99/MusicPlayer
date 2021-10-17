@@ -8,7 +8,7 @@ import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
-import uz.mobiller.musicplayerappdemo.PlayerActivity
+import uz.mobiller.musicplayerappdemo.ui.PlayerActivity
 import uz.mobiller.musicplayerappdemo.R
 import uz.mobiller.musicplayerappdemo.databinding.MusicViewBinding
 import uz.mobiller.musicplayerappdemo.models.Music

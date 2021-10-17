@@ -1,4 +1,4 @@
-package uz.mobiller.musicplayerappdemo
+package uz.mobiller.musicplayerappdemo.ui
 
 import android.content.Intent
 import android.content.pm.PackageManager
@@ -11,6 +11,7 @@ import androidx.appcompat.app.ActionBarDrawerToggle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.recyclerview.widget.LinearLayoutManager
+import uz.mobiller.musicplayerappdemo.R
 import uz.mobiller.musicplayerappdemo.adapters.MusicItemAdapter
 import uz.mobiller.musicplayerappdemo.databinding.ActivityMainBinding
 import uz.mobiller.musicplayerappdemo.models.Music

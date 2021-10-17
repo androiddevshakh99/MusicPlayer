@@ -6,7 +6,7 @@
     android:layout_marginTop="2dp"
     android:layout_height="match_parent"
     app:layout_goneMarginTop="2dp"
-    tools:context=".PlayListActivity">
+    tools:context=".ui.PlayListActivity">
 
     <LinearLayout
         android:layout_marginTop="2dp"

@@ -15,19 +15,19 @@
         android:theme="@style/splash_screen"
         tools:ignore="Allowbackup">
         <activity
-            android:name=".FavouriteActivity"
+            android:name=".ui.FavouriteActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".PlayListActivity"
+            android:name=".ui.PlayListActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".PlayerActivity"
+            android:name=".ui.PlayerActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.MainActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity">
             <intent-filter>

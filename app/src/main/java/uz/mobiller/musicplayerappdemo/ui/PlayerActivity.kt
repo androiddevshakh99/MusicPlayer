@@ -1,10 +1,11 @@
-package uz.mobiller.musicplayerappdemo
+package uz.mobiller.musicplayerappdemo.ui
 
 import android.media.MediaPlayer
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
+import uz.mobiller.musicplayerappdemo.R
 import uz.mobiller.musicplayerappdemo.databinding.ActivityPlayerBinding
 import uz.mobiller.musicplayerappdemo.models.Music
 
